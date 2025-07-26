@@ -4,4 +4,4 @@ My name is Henry Shafer, this organization is for organizing my university proje
 
 Thank you for taking a look. If you have any questions, comments, or suggestion, I am always open so please reachout. Thank you for your time, have a good one.
 
-```two of my more impressive projects still need to be moved(should be done before 8/4)```
+***two of my more impressive projects still need to be moved(should be done before 8/4)***
